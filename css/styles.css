@@ -1,0 +1,322 @@
+body {
+    background-color: #3AAFA9;
+    
+ 
+}
+
+
+.up-div {
+   
+    height: 400px;
+    width: 1000px;
+    margin-top: 130px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 200px;
+}
+
+.profile-photo {
+
+    position: relative;
+    top: 50px;
+    left: 15px;
+    width: 308px;
+}
+h1{
+    color: #FEFFFF;
+    font-family: Seymour One, sans-serif;
+}
+
+
+h2 {
+    font-family: Seymour One, sans-serif;
+
+}
+
+
+p {
+    font-family:Anton , sans-serif;
+    font-size: 1.7em;
+    
+}
+
+.myname {
+    font-size: 4.375em;
+    width: 410px;
+    color: #FEFFFF;
+    font-family: Lobster, sans-serif;
+    position: relative;
+    left: 470px;
+    bottom: 300px;
+    margin-bottom: 0;
+    margin-top: 100px;
+}
+
+.mycar {
+    font-size: 1.6em;
+    position: relative;
+    width: 410px;
+    font-family: Seymour One, sans-serif;
+    left: 470px;
+    bottom: 300px;
+    margin-top: 10px;
+}
+
+
+
+
+hr {
+    border: 15px dotted;
+    border-bottom-style:none;
+    width: 10%;
+    border-color: #2B7A78;
+margin-bottom: 220px;
+
+}
+
+
+
+
+.mid-div {
+
+    height: 320.85px;
+    width: 710px;
+    margin-top: 80px;
+    margin-right: 550px;
+    margin-left: auto;
+    
+    border-radius: 60px;
+    margin-bottom: 220px;
+   /* border: solid;
+background-color: #2B7A78;
+    border-color: #17252A; --> */
+    
+
+}
+
+
+.who {
+    width: 300px;
+    position:relative ;
+   font-size: 2.3em;
+   left: 50px;
+   top: 50px;
+  
+
+}
+
+.whop22 {
+    position:relative ;
+    width: 630px;
+    left: 50px;
+    top: 50px;
+    margin-bottom: 24.656px;
+    
+}
+.earth {
+    width: 308px;
+    position: relative;
+    left: 840px;
+    bottom: 240px;
+    
+
+    
+}
+
+.low-div {
+
+    height: 800px;
+    width:100%;
+
+}
+
+.low-div2 {
+
+    position: relative;
+    left: 51%;
+    bottom: 820px;
+    height: 800px;
+    width:49%;
+
+}
+
+
+.low-div3 {
+
+    height: 800px;
+    width:2%;
+    position: relative;
+    left: 49%;
+    bottom: 1560px;
+
+    background-color:#2B7A78;
+    border-radius: 20px;
+
+}
+
+.hob {
+    margin-bottom: 120px;
+}
+
+
+
+
+li {
+    margin-left: 40px;
+    font-family:Anton , sans-serif;
+    font-size: 2.1em;
+    line-height: 60px;
+    width: 400px;
+}
+
+.learn {
+    width: 80px;
+    position: absolute;
+    right:54%;
+    top: 1891px;
+}
+
+.box {
+    width: 80px;
+    position: absolute;
+    right:46%;
+    top: 1951px;
+}
+
+
+.money {
+    width: 80px;
+    position: absolute;
+    right:54%;
+    top: 2011px;
+}
+
+.amb {
+    width: 80px;
+    position: absolute;
+    right:46%;
+    top: 2071px;
+}
+
+.dis {
+    width: 80px;
+    position: absolute;
+    right:54%;
+    top: 2131px;
+}
+.psy {
+    width: 80px;
+    position: absolute;
+    right:46%;
+    top: 2191px;
+}
+.gen {
+    width: 80px;
+    position: absolute;
+    right:54%;
+    top: 2251px;
+}
+
+ul {
+     margin-bottom: 100px;
+}
+.ullow {
+
+    margin-left: 780px;
+}
+
+.mon {
+    width: 80px;
+    position: absolute;
+    right:46%;
+    top: 2411px;
+
+}
+
+.gym {
+    width: 80px;
+    position: absolute;
+    right:54%;
+    top: 2471px;
+}
+
+.vid {
+    width: 80px;
+    position: absolute;
+    right:46%;
+    top: 2531px;
+}
+
+.fo {
+    width: 80px;
+    position: absolute;
+    right:54%;
+    top: 2591px;
+}
+
+
+.tra {
+    
+    width: 80px;
+    position: absolute;
+    right:46%;
+    top: 2651px;
+}
+
+
+.read {
+    width: 80px;
+    position: absolute;
+    right:54%;
+    top: 2711px;
+}
+
+.le {
+    width: 80px;
+    position: absolute;
+    right:46%;
+    top: 2771px;
+}
+
+.ii { 
+    position:absolute ;
+
+    margin-top: 200px;
+    height: 70px;
+    width: 100%;
+    background-color: #2B7A78;
+    right: 0;
+
+}
+
+.hoho { 
+    position:fixed;
+    height: 60px;
+    width: 100%;
+    background-color: #2B7A78;
+    right: 0;
+    top: 0;
+    opacity: 1;
+    
+    
+}
+
+.btn {
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    text-shadow: 1px 1px 3px #000000;
+    font-family: Arial;
+    color: #DEF2F1;
+    font-size: 24px;
+    background: #17252A;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+  }
+  
+  .btn:hover {
+    background: #DEF2F1;
+    text-decoration: none;
+  }
